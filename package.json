@@ -2,7 +2,7 @@
   "name": "p2-would-you-rather",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nehal96.github.io/react-nd",
+  "homepage": "https://nehal96.github.io/would-you-rather-app",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
